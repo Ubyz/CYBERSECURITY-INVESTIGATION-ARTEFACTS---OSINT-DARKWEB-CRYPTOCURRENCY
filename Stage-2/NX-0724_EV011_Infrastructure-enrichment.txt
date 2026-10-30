@@ -1,0 +1,15 @@
+INFRASTRUCTURE ENRICHMENT RESULT
+
+Parent domain: vantrisgroup.net
+
+Observed hostnames:
+board.vantrisgroup.net
+o.vantrisgroup.net
+t.vantrisgroup.net
+
+Indicator type: FQDN
+
+Entry resolution note:
+Open-source search results identify legitimate organisations using the name “vantris”, including organisations operating websites on other domains. No technical relationship has been identified between these organisations and the vantrisgroup.net infrastructure observed in this investigation.
+
+Analysts should investigate the exact domains and hostnames present in the evidence. Similarity between an organisation name and a domain name is not sufficient to establish an association.

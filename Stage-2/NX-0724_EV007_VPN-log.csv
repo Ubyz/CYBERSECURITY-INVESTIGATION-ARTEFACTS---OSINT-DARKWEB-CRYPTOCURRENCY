@@ -1,0 +1,6 @@
+timestamp_utc,username,event_type,source_system,source_ip,mfa_method,mfa_result,session_result,notes,severity
+2026-08-06T08:52:14Z,priya.shah,VPN Authentication,NexaNet VPN Gateway (SSO-backed),10.44.2.118,Push,Approved,Success,Routine SSO authentication to VPN gateway from users registered corporate workstation. Baseline entry.,Informational
+2026-08-07T18:03:41Z,priya.shah,VPN Authentication,NexaNet VPN Gateway (SSO-backed),10.44.2.118,Push,Approved,Success,Routine SSO authentication to VPN gateway from users registered corporate workstation. Baseline entry.,Informational
+2026-08-10T08:19:03Z,priya.shah,VPN Authentication,NexaNet VPN Gateway (SSO-backed),10.44.2.118,Push,Approved,Success,Routine SSO authentication to VPN gateway from users registered corporate workstation. Baseline entry.,Informational
+2026-08-11T13:05:22Z,priya.shah,VPN Authentication,NexaNet VPN Gateway (SSO-backed),198.46.253.59,Push,Approved,Success,Successful authentication from source IP outside NexaNets expected corporate ranges,Medium
+2026-08-11T13:05:51Z,priya.shah,VPN Session Established,NexaNet VPN Gateway (SSO-backed),198.46.253.59,-,-,Success,VPN session established following successful authentication. Tunnel address assigned: 10.60.10.23,Informational

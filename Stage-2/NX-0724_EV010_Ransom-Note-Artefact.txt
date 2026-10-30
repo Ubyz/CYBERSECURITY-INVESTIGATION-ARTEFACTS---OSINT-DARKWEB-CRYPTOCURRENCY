@@ -1,0 +1,131 @@
+Thought you could get away with weak security?
+                           ____
+        ____....----''''````    |.
+,'''````            ____....----; '.
+| __....----''''````         .-.`'. '.
+|.-.                .....    | |   '. '.
+`| |        ..:::::::::::::::| |   .-;. |
+ | |`'-;-::::::::::::::::::::| |,,.| |-='
+ | |   | ::::::::::::::::::::| |   | |
+ | |   | :::::::::::::::;;;;;| |   | |
+ | |   | :::::::::;;;TICK TOC| |   | |
+ | |   | :::::;;K TICK TOCK :| |   | |
+ | |   | :::;TICK TOCK TICK T| |   | |
+ | |   | :;OCK THE CLOCK'S+++| |   | |
+ | |   | |;TICKING...++++++++| |   | |
+ | |   | | ;++++++++++++++++;| |   | |
+ | |   | |  ;++++++++++++++;.| |   | |
+ | |   | |   :++++++++++++:  | |   | |
+ | |   | |    .:++++++++;.   | |   | |
+ | |   | |       .:;+:..     | |   | |
+ | |   | |         ;;        | |   | |
+ | |   | |      .,:+;:,.     | |   | |
+ | |   | |    .::::;+::::,   | |   | |
+ | |   | |   ::::::;;::::::. | |   | |
+ | |   | |  :::::::+;:::::::.| |   | |
+ | |   | | ::::::::;;::::::::| |   | |
+ | |   | |:::::::::+:::::::::| |   | |
+ | |   | |:::::::::+:::::::::| |   | |
+ | |   | ::::::::;+++;:::::::| |   | |
+ | |   | :::::::;+++++;::::::| |   | |
+ | |   | ::::::;+++++++;:::::| |   | |
+ | |   |.:::::;+++++++++;::::| |   | |
+ | | ,`':::::;+++++++++++;:::| |'"-| |-..
+ | |'   ::::;;GREYHARBOUR;;::| |   '-' ,|
+ | |    ::::;++++++++++++++;:| |     .' |
+,;-'_   `-._===++++++++++_.-'| |   .'  .'
+|    ````'''----....___-'    '-' .'  .'
+'---....____           ````'''--;  ,'
+            ````''''----....____|.'
+
+
+==================================================
+GREYHARBOUR: NOTICE OF AUDIT FINDINGS
+==================================================
+
+Dear NexaNet,
+
+Every port has a toll. Yours went unpaid for a long time, we're
+just the ones who finally sent the bill.
+
+On 11 August 2026, we completed a full "audit" of your network.
+Your IT security was found to be lacking. Sad for your customers.
+The findings were... substantial. We hold a copy of 184 GB of data
+taken from the following areas of your business:
+
+    - HR
+    - Finance
+    - Contracts
+    - Confidential board papers
+    - Customers
+    - VPN-backups
+    - Privileged legal documents
+
+You're responsible for millions of people's PII. Well, seems you
+WEREN'T responsible. Not with a network this soft. We sailed in,
+we sailed around, took what we wanted, and sailed out. Now you'll pay
+the consequences. 
+
+Your own security team should have found what we found. They
+didn't. That gap is now our leverage, and yours to close. We're
+almost grateful to you. Audits this easy are rare, and we do enjoy our
+work.
+
+In one way, we've done you a favour. We don't hit florists or hospitals.
+We don't hit schools. We hit critical organisations like yours...
+that don't have their security together. Time to learn your lesson, NexaNet.
+
+--------------------------------------------------
+WHAT HAPPENS NEXT
+--------------------------------------------------
+
+This is not negotiable in principle, only in timing.
+
+You have two options:
+
+  1. PAY. We provide a working decryptor and the data is not
+     published. We do not renegotiate down, and we do not hit the
+     same client twice. Ask around, our word is bond. It's the one
+     part of this business we take seriously.
+
+  2. DO NOT PAY. The data listed above is published in full, dumped in
+     cleartext, seeded via non-removable P2P .torrents.
+     Starting with the finance archive after the deadline below. Your
+     customers will find out how little you thought they were
+     worth protecting. So will your regulator.
+
+Either way, the toll gets paid.
+
+--------------------------------------------------
+PAYMENT DETAILS
+--------------------------------------------------
+
+Victim ID:         WideNet26
+Amount due:        2.30 BTC
+Payment address:   15JeHwoHc5JiHa5UNpn7VAjRDpJG24siBE
+Deadline:          31 August 2026, 18:00 UTC
+
+--------------------------------------------------
+CONTACT
+--------------------------------------------------
+
+If you have any questions...
+
+Please ask literally anybody else first. We aren't interested
+in your excuses. But if you must, we have a public forum.
+If we can be bothered using it. We might have changed channel.
+
+https://board.vantrisgroup.net/
+ 
+Quote your victim ID in the first line or the conversation
+will not be picked up. We don't do hand-holding, and we've already
+said everything we need to.
+
+--------------------------------------------------
+
+You already know how this goes. Pay the toll, or pay for what
+comes after.
+
+Have the day you deserve,
+GreyHarbour Group
+"Every port has a toll"
